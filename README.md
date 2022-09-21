@@ -5,6 +5,6 @@
 <img src='./Git/Extudo.png' />
 
 <p align="center">
-  Esse é um projeto deito para meu aprendizado pessoal,o inicio dos meus estidos em NodeJs,
+  Esse é um projeto feito para meu aprendizado pessoal,o inicio dos meus estidos em NodeJs,
   com <b>Timers</b>, usando a plataforma de estudos Discover <b>Rocketseat</b>
 </p>
